@@ -1,1 +1,264 @@
-[]
+{
+  "updated_at": "2026-08-22T03:08:23.886625+00:00",
+  "topics": [
+    {
+      "id": "trend-1",
+      "source": "Google Trends",
+      "trend_title": "ニュース",
+      "title": "ニュース",
+      "genre": "今日の話題",
+      "opening": "今『ニュース』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "expansions": [
+        "これ初めて聞いた？",
+        "なんで今話題なんだろう？",
+        "流行ってるものってチェックする派？",
+        "最近ネットで知ったものある？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "ネット",
+        "日常"
+      ],
+      "scores": {
+        "first": 4,
+        "short": 4,
+        "expand": 4,
+        "long": 3
+      }
+    },
+    {
+      "id": "trend-2",
+      "source": "Google Trends",
+      "trend_title": "スクイズ",
+      "title": "スクイズ",
+      "genre": "今日の話題",
+      "opening": "今『スクイズ』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "expansions": [
+        "これ初めて聞いた？",
+        "なんで今話題なんだろう？",
+        "流行ってるものってチェックする派？",
+        "最近ネットで知ったものある？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "ネット",
+        "日常"
+      ],
+      "scores": {
+        "first": 4,
+        "short": 4,
+        "expand": 4,
+        "long": 3
+      }
+    },
+    {
+      "id": "trend-3",
+      "source": "Google Trends",
+      "trend_title": "マックス・マンシー",
+      "title": "マックス・マンシー",
+      "genre": "食べ物",
+      "opening": "『マックス・マンシー』が話題らしいけど、みんなこれ好き？",
+      "expansions": [
+        "最後に食べたのいつ？",
+        "似た系統なら何が一番好き？",
+        "外食でつい頼んじゃう物ある？"
+      ],
+      "related": [
+        "食べ物",
+        "外食",
+        "コンビニ",
+        "好き嫌い"
+      ],
+      "scores": {
+        "first": 4,
+        "short": 4,
+        "expand": 4,
+        "long": 3
+      }
+    },
+    {
+      "id": "trend-4",
+      "source": "Google Trends",
+      "trend_title": "eテレ",
+      "title": "eテレ",
+      "genre": "今日の話題",
+      "opening": "今『eテレ』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "expansions": [
+        "これ初めて聞いた？",
+        "なんで今話題なんだろう？",
+        "流行ってるものってチェックする派？",
+        "最近ネットで知ったものある？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "ネット",
+        "日常"
+      ],
+      "scores": {
+        "first": 4,
+        "short": 4,
+        "expand": 4,
+        "long": 3
+      }
+    },
+    {
+      "id": "trend-5",
+      "source": "Google Trends",
+      "trend_title": "秋元優里",
+      "title": "秋元優里",
+      "genre": "今日の話題",
+      "opening": "今『秋元優里』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "expansions": [
+        "これ初めて聞いた？",
+        "なんで今話題なんだろう？",
+        "流行ってるものってチェックする派？",
+        "最近ネットで知ったものある？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "ネット",
+        "日常"
+      ],
+      "scores": {
+        "first": 4,
+        "short": 4,
+        "expand": 4,
+        "long": 3
+      }
+    },
+    {
+      "id": "trend-6",
+      "source": "Google Trends",
+      "trend_title": "智弁学園 智弁和歌山",
+      "title": "智弁学園 智弁和歌山",
+      "genre": "今日の話題",
+      "opening": "今『智弁学園 智弁和歌山』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "expansions": [
+        "これ初めて聞いた？",
+        "なんで今話題なんだろう？",
+        "流行ってるものってチェックする派？",
+        "最近ネットで知ったものある？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "ネット",
+        "日常"
+      ],
+      "scores": {
+        "first": 4,
+        "short": 4,
+        "expand": 4,
+        "long": 3
+      }
+    },
+    {
+      "id": "trend-7",
+      "source": "Google Trends",
+      "trend_title": "dodgers vs pirates",
+      "title": "dodgers vs pirates",
+      "genre": "今日の話題",
+      "opening": "今『dodgers vs pirates』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "expansions": [
+        "これ初めて聞いた？",
+        "なんで今話題なんだろう？",
+        "流行ってるものってチェックする派？",
+        "最近ネットで知ったものある？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "ネット",
+        "日常"
+      ],
+      "scores": {
+        "first": 4,
+        "short": 4,
+        "expand": 4,
+        "long": 3
+      }
+    },
+    {
+      "id": "trend-8",
+      "source": "Google Trends",
+      "trend_title": "北海道マラソン",
+      "title": "北海道マラソン",
+      "genre": "今日の話題",
+      "opening": "今『北海道マラソン』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "expansions": [
+        "これ初めて聞いた？",
+        "なんで今話題なんだろう？",
+        "流行ってるものってチェックする派？",
+        "最近ネットで知ったものある？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "ネット",
+        "日常"
+      ],
+      "scores": {
+        "first": 4,
+        "short": 4,
+        "expand": 4,
+        "long": 3
+      }
+    },
+    {
+      "id": "trend-9",
+      "source": "Google Trends",
+      "trend_title": "東野圭吾",
+      "title": "東野圭吾",
+      "genre": "今日の話題",
+      "opening": "今『東野圭吾』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "expansions": [
+        "これ初めて聞いた？",
+        "なんで今話題なんだろう？",
+        "流行ってるものってチェックする派？",
+        "最近ネットで知ったものある？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "ネット",
+        "日常"
+      ],
+      "scores": {
+        "first": 4,
+        "short": 4,
+        "expand": 4,
+        "long": 3
+      }
+    },
+    {
+      "id": "trend-10",
+      "source": "Google Trends",
+      "trend_title": "韓国の航空",
+      "title": "韓国の航空",
+      "genre": "今日の話題",
+      "opening": "今『韓国の航空』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "expansions": [
+        "これ初めて聞いた？",
+        "なんで今話題なんだろう？",
+        "流行ってるものってチェックする派？",
+        "最近ネットで知ったものある？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "ネット",
+        "日常"
+      ],
+      "scores": {
+        "first": 4,
+        "short": 4,
+        "expand": 4,
+        "long": 3
+      }
+    }
+  ]
+}
