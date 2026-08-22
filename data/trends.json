@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-22T06:01:18.901555+00:00",
+  "updated_at": "2026-08-22T07:49:17.581313+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
-      "trend_title": "乃木坂 ライブ",
-      "title": "乃木坂 ライブ",
+      "trend_title": "上重聡",
+      "title": "上重聡",
       "genre": "今日の話題",
-      "opening": "今『乃木坂 ライブ』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "opening": "今『上重聡』が検索で急上昇してるみたい。みんなこれ知ってる？",
       "expansions": [
         "これ初めて聞いた？",
         "なんで今話題なんだろう？",
@@ -30,10 +30,10 @@
     {
       "id": "trend-2",
       "source": "Google Trends",
-      "trend_title": "wasj",
-      "title": "wasj",
+      "trend_title": "岩嵜翔",
+      "title": "岩嵜翔",
       "genre": "今日の話題",
-      "opening": "今『wasj』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "opening": "今『岩嵜翔』が検索で急上昇してるみたい。みんなこれ知ってる？",
       "expansions": [
         "これ初めて聞いた？",
         "なんで今話題なんだろう？",
@@ -56,10 +56,10 @@
     {
       "id": "trend-3",
       "source": "Google Trends",
-      "trend_title": "ドジャース 速報",
-      "title": "ドジャース 速報",
+      "trend_title": "八戸 対 仙台",
+      "title": "八戸 対 仙台",
       "genre": "今日の話題",
-      "opening": "今『ドジャース 速報』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "opening": "今『八戸 対 仙台』が検索で急上昇してるみたい。みんなこれ知ってる？",
       "expansions": [
         "これ初めて聞いた？",
         "なんで今話題なんだろう？",
@@ -82,10 +82,10 @@
     {
       "id": "trend-4",
       "source": "Google Trends",
-      "trend_title": "ドジャース 試合結果",
-      "title": "ドジャース 試合結果",
+      "trend_title": "tokyo weather",
+      "title": "tokyo weather",
       "genre": "今日の話題",
-      "opening": "今『ドジャース 試合結果』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "opening": "今『tokyo weather』が検索で急上昇してるみたい。みんなこれ知ってる？",
       "expansions": [
         "これ初めて聞いた？",
         "なんで今話題なんだろう？",
@@ -108,10 +108,10 @@
     {
       "id": "trend-5",
       "source": "Google Trends",
-      "trend_title": "野原ひろし 昼メシの流儀",
-      "title": "野原ひろし 昼メシの流儀",
+      "trend_title": "東京 天気",
+      "title": "東京 天気",
       "genre": "今日の話題",
-      "opening": "今『野原ひろし 昼メシの流儀』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "opening": "今『東京 天気』が検索で急上昇してるみたい。みんなこれ知ってる？",
       "expansions": [
         "これ初めて聞いた？",
         "なんで今話題なんだろう？",
@@ -134,10 +134,10 @@
     {
       "id": "trend-6",
       "source": "Google Trends",
-      "trend_title": "スターミー ポケモンgo",
-      "title": "スターミー ポケモンgo",
+      "trend_title": "冬のなんかさ、春のなんかね",
+      "title": "冬のなんかさ、春のなんかね",
       "genre": "今日の話題",
-      "opening": "今『スターミー ポケモンgo』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "opening": "今『冬のなんかさ、春のなんかね』が検索で急上昇してるみたい。みんなこれ知ってる？",
       "expansions": [
         "これ初めて聞いた？",
         "なんで今話題なんだろう？",
@@ -160,10 +160,10 @@
     {
       "id": "trend-7",
       "source": "Google Trends",
-      "trend_title": "メイソン・モンゴメリー",
-      "title": "メイソン・モンゴメリー",
+      "trend_title": "相続",
+      "title": "相続",
       "genre": "今日の話題",
-      "opening": "今『メイソン・モンゴメリー』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "opening": "今『相続』が検索で急上昇してるみたい。みんなこれ知ってる？",
       "expansions": [
         "これ初めて聞いた？",
         "なんで今話題なんだろう？",
@@ -186,10 +186,10 @@
     {
       "id": "trend-8",
       "source": "Google Trends",
-      "trend_title": "原油",
-      "title": "原油",
+      "trend_title": "剣道",
+      "title": "剣道",
       "genre": "今日の話題",
-      "opening": "今『原油』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "opening": "今『剣道』が検索で急上昇してるみたい。みんなこれ知ってる？",
       "expansions": [
         "これ初めて聞いた？",
         "なんで今話題なんだろう？",
@@ -212,10 +212,10 @@
     {
       "id": "trend-9",
       "source": "Google Trends",
-      "trend_title": "神戸ストークス",
-      "title": "神戸ストークス",
+      "trend_title": "松山弘平",
+      "title": "松山弘平",
       "genre": "今日の話題",
-      "opening": "今『神戸ストークス』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "opening": "今『松山弘平』が検索で急上昇してるみたい。みんなこれ知ってる？",
       "expansions": [
         "これ初めて聞いた？",
         "なんで今話題なんだろう？",
@@ -238,10 +238,10 @@
     {
       "id": "trend-10",
       "source": "Google Trends",
-      "trend_title": "代木大和",
-      "title": "代木大和",
+      "trend_title": "霧島市",
+      "title": "霧島市",
       "genre": "今日の話題",
-      "opening": "今『代木大和』が検索で急上昇してるみたい。みんなこれ知ってる？",
+      "opening": "今『霧島市』が検索で急上昇してるみたい。みんなこれ知ってる？",
       "expansions": [
         "これ初めて聞いた？",
         "なんで今話題なんだろう？",
