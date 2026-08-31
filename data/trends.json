@@ -1,8 +1,173 @@
 {
-  "updatedAt": "2026-08-31T18:19:08.881603+00:00",
+  "updatedAt": "2026-08-31T19:18:58.721004+00:00",
   "topics": [
     {
       "id": "trend-1",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "バルセロナ 対 ラージョ",
+      "opening": "今『バルセロナ 対 ラージョ』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『バルセロナ 対 ラージョ』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-1-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "バルセロナ 対 ラージョ",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-2",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "aston villa vs arsenal",
+      "opening": "今『aston villa vs arsenal』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『aston villa vs arsenal』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-2-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "aston villa vs arsenal",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-3",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "アストン・ヴィラ",
+      "opening": "今『アストン・ヴィラ』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『アストン・ヴィラ』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-3-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "アストン・ヴィラ",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
       "title": "アストン・ビラ 対 アーセナル",
@@ -29,7 +194,7 @@
       }
     },
     {
-      "id": "derived-1-1",
+      "id": "derived-4-1",
       "source": "トレンド派生",
       "genre": "価値観",
       "title": "流行ってるものって気になる？",
@@ -57,7 +222,7 @@
       }
     },
     {
-      "id": "trend-2",
+      "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
       "title": "アストンヴィラ",
@@ -84,7 +249,7 @@
       }
     },
     {
-      "id": "derived-2-1",
+      "id": "derived-5-1",
       "source": "トレンド派生",
       "genre": "価値観",
       "title": "流行ってるものって気になる？",
@@ -112,7 +277,7 @@
       }
     },
     {
-      "id": "trend-3",
+      "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
       "title": "藤田 ニコル 罰 ゲーム",
@@ -139,7 +304,7 @@
       }
     },
     {
-      "id": "derived-3-1",
+      "id": "derived-6-1",
       "source": "トレンド派生",
       "genre": "日常",
       "title": "スマホって何年で買い替える？",
@@ -167,7 +332,7 @@
       }
     },
     {
-      "id": "derived-3-2",
+      "id": "derived-6-2",
       "source": "トレンド派生",
       "genre": "価値観",
       "title": "スマホに10万円以上出せる？",
@@ -195,7 +360,7 @@
       }
     },
     {
-      "id": "trend-4",
+      "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
       "title": "レッチェ 対 ローマ",
@@ -222,7 +387,7 @@
       }
     },
     {
-      "id": "derived-4-1",
+      "id": "derived-7-1",
       "source": "トレンド派生",
       "genre": "価値観",
       "title": "流行ってるものって気になる？",
@@ -250,176 +415,11 @@
       }
     },
     {
-      "id": "trend-5",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "株探",
-      "opening": "今『株探』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『株探』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-5-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "株探",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-6",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "伊藤あおい",
-      "opening": "今『伊藤あおい』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『伊藤あおい』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-6-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "伊藤あおい",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-7",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "坂詰姫野",
-      "opening": "今『坂詰姫野』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『坂詰姫野』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-7-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "坂詰姫野",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "つくば市 停電",
-      "opening": "今『つくば市 停電』が検索で伸びてるみたい。これ知ってる？",
+      "title": "菅原由勢",
+      "opening": "今『菅原由勢』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -433,7 +433,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『つくば市 停電』知ってる？",
+      "videoTitle": "今話題の『菅原由勢』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -458,7 +458,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "つくば市 停電",
+      "trendOrigin": "菅原由勢",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
