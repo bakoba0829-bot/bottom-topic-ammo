@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-01T06:31:24.972476+00:00",
+  "updatedAt": "2026-09-01T07:25:22.006062+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "ミスド さつまいも ド",
-      "opening": "今『ミスド さつまいも ド』が検索で伸びてるみたい。これ知ってる？",
+      "title": "ハッカキッズ",
+      "opening": "今『ハッカキッズ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -20,7 +20,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『ミスド さつまいも ド』知ってる？",
+      "videoTitle": "今話題の『ハッカキッズ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -45,7 +45,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "ミスド さつまいも ド",
+      "trendOrigin": "ハッカキッズ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -60,8 +60,8 @@
       "id": "trend-2",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "グランド・セフト・オートvi",
-      "opening": "今『グランド・セフト・オートvi』が検索で伸びてるみたい。これ知ってる？",
+      "title": "ユナイテッド アローズ ちい かわ",
+      "opening": "今『ユナイテッド アローズ ちい かわ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -75,7 +75,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『グランド・セフト・オートvi』知ってる？",
+      "videoTitle": "今話題の『ユナイテッド アローズ ちい かわ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -100,7 +100,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "グランド・セフト・オートvi",
+      "trendOrigin": "ユナイテッド アローズ ちい かわ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -115,8 +115,8 @@
       "id": "trend-3",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "rady",
-      "opening": "今『rady』が検索で伸びてるみたい。これ知ってる？",
+      "title": "柳瀬川駅",
+      "opening": "今『柳瀬川駅』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -130,7 +130,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『rady』知ってる？",
+      "videoTitle": "今話題の『柳瀬川駅』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -155,7 +155,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "rady",
+      "trendOrigin": "柳瀬川駅",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -170,8 +170,8 @@
       "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "asia artist awards",
-      "opening": "今『asia artist awards』が検索で伸びてるみたい。これ知ってる？",
+      "title": "roblox",
+      "opening": "今『roblox』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -185,7 +185,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『asia artist awards』知ってる？",
+      "videoTitle": "今話題の『roblox』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -210,7 +210,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "asia artist awards",
+      "trendOrigin": "roblox",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -225,8 +225,8 @@
       "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "東武東上線 人身事故",
-      "opening": "今『東武東上線 人身事故』が検索で伸びてるみたい。これ知ってる？",
+      "title": "dカード改悪",
+      "opening": "今『dカード改悪』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -240,7 +240,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『東武東上線 人身事故』知ってる？",
+      "videoTitle": "今話題の『dカード改悪』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -265,7 +265,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "東武東上線 人身事故",
+      "trendOrigin": "dカード改悪",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -280,8 +280,8 @@
       "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "柿谷曜一朗",
-      "opening": "今『柿谷曜一朗』が検索で伸びてるみたい。これ知ってる？",
+      "title": "小野田紀美",
+      "opening": "今『小野田紀美』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -295,7 +295,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『柿谷曜一朗』知ってる？",
+      "videoTitle": "今話題の『小野田紀美』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -320,7 +320,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "柿谷曜一朗",
+      "trendOrigin": "小野田紀美",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -335,8 +335,8 @@
       "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "重賞",
-      "opening": "今『重賞』が検索で伸びてるみたい。これ知ってる？",
+      "title": "俳優",
+      "opening": "今『俳優』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -350,7 +350,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『重賞』知ってる？",
+      "videoTitle": "今話題の『俳優』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -375,7 +375,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "重賞",
+      "trendOrigin": "俳優",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -390,8 +390,8 @@
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "ブルーインパルス",
-      "opening": "今『ブルーインパルス』が検索で伸びてるみたい。これ知ってる？",
+      "title": "最低賃金 2026",
+      "opening": "今『最低賃金 2026』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -405,7 +405,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『ブルーインパルス』知ってる？",
+      "videoTitle": "今話題の『最低賃金 2026』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -430,7 +430,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "ブルーインパルス",
+      "trendOrigin": "最低賃金 2026",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
