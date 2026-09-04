@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-04T21:23:08.277123+00:00",
+  "updatedAt": "2026-09-04T22:22:57.871527+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "レアル・マドリード",
-      "opening": "今『レアル・マドリード』が検索で伸びてるみたい。これ知ってる？",
+      "title": "宝くじ ロト7",
+      "opening": "今『宝くじ ロト7』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -20,7 +20,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『レアル・マドリード』知ってる？",
+      "videoTitle": "今話題の『宝くじ ロト7』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -45,7 +45,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "レアル・マドリード",
+      "trendOrigin": "宝くじ ロト7",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -60,8 +60,8 @@
       "id": "trend-2",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "ラリーガ",
-      "opening": "今『ラリーガ』が検索で伸びてるみたい。これ知ってる？",
+      "title": "任天堂 株価",
+      "opening": "今『任天堂 株価』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -75,7 +75,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『ラリーガ』知ってる？",
+      "videoTitle": "今話題の『任天堂 株価』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -100,7 +100,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "ラリーガ",
+      "trendOrigin": "任天堂 株価",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -115,8 +115,8 @@
       "id": "trend-3",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "リーグアン",
-      "opening": "今『リーグアン』が検索で伸びてるみたい。これ知ってる？",
+      "title": "彬子さま",
+      "opening": "今『彬子さま』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -130,7 +130,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『リーグアン』知ってる？",
+      "videoTitle": "今話題の『彬子さま』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -155,7 +155,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "リーグアン",
+      "trendOrigin": "彬子さま",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -170,8 +170,8 @@
       "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "セリエa",
-      "opening": "今『セリエa』が検索で伸びてるみたい。これ知ってる？",
+      "title": "藤森慎吾",
+      "opening": "今『藤森慎吾』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -185,7 +185,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『セリエa』知ってる？",
+      "videoTitle": "今話題の『藤森慎吾』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -210,7 +210,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "セリエa",
+      "trendOrigin": "藤森慎吾",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -225,8 +225,8 @@
       "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "マンチェスター ユナイテッド",
-      "opening": "今『マンチェスター ユナイテッド』が検索で伸びてるみたい。これ知ってる？",
+      "title": "高知 天気",
+      "opening": "今『高知 天気』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -240,7 +240,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『マンチェスター ユナイテッド』知ってる？",
+      "videoTitle": "今話題の『高知 天気』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -265,7 +265,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "マンチェスター ユナイテッド",
+      "trendOrigin": "高知 天気",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -280,8 +280,8 @@
       "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "カルロス・アルカラス",
-      "opening": "今『カルロス・アルカラス』が検索で伸びてるみたい。これ知ってる？",
+      "title": "フィリーズ 対 ブレーブス",
+      "opening": "今『フィリーズ 対 ブレーブス』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -295,7 +295,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『カルロス・アルカラス』知ってる？",
+      "videoTitle": "今話題の『フィリーズ 対 ブレーブス』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -320,7 +320,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "カルロス・アルカラス",
+      "trendOrigin": "フィリーズ 対 ブレーブス",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -335,8 +335,8 @@
       "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "気温",
-      "opening": "今『気温』が検索で伸びてるみたい。これ知ってる？",
+      "title": "real betis vs real madrid standings",
+      "opening": "今『real betis vs real madrid standings』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -350,7 +350,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『気温』知ってる？",
+      "videoTitle": "今話題の『real betis vs real madrid standings』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -361,52 +361,24 @@
     {
       "id": "derived-7-1",
       "source": "トレンド派生",
-      "genre": "季節",
-      "title": "夏と冬、どっちが嫌？",
-      "opening": "夏と冬なら、どっちの方が嫌？",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
       "expansions": [
-        "暑いのと寒いのどっちが耐えられる？",
-        "一番好きな季節は？",
-        "夏に絶対やることある？"
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
       ],
       "related": [
-        "夏",
-        "冬",
-        "季節",
-        "休日"
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
       ],
-      "trendOrigin": "気温",
-      "shortReason": "誰でも答えられ、真逆の意見が生まれやすい。",
-      "splitPoint": "夏派 / 冬派。",
-      "videoTitle": "夏と冬、どっちがマシ？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "derived-7-2",
-      "source": "トレンド派生",
-      "genre": "日常",
-      "title": "寝る時エアコン何度？",
-      "opening": "みんな寝る時エアコン何度にしてる？",
-      "expansions": [
-        "朝までつけっぱなし？",
-        "タイマー使う？",
-        "電気代って気にする？"
-      ],
-      "related": [
-        "睡眠",
-        "電気代",
-        "夏",
-        "生活"
-      ],
-      "trendOrigin": "気温",
-      "shortReason": "数字で回答でき、生活習慣の違いがコメントになりやすい。",
-      "splitPoint": "つけっぱなし派 / タイマー派。",
-      "videoTitle": "寝る時のエアコン、何度が正解？",
+      "trendOrigin": "real betis vs real madrid standings",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
       "scores": {
         "first": 5,
         "short": 5,
@@ -418,8 +390,8 @@
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "cuaca hari ini",
-      "opening": "今『cuaca hari ini』が検索で伸びてるみたい。これ知ってる？",
+      "title": "klasemen real betis vs real madrid",
+      "opening": "今『klasemen real betis vs real madrid』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -433,7 +405,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『cuaca hari ini』知ってる？",
+      "videoTitle": "今話題の『klasemen real betis vs real madrid』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -458,7 +430,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "cuaca hari ini",
+      "trendOrigin": "klasemen real betis vs real madrid",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
