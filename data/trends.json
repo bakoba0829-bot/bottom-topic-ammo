@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-06T19:21:37.297615+00:00",
+  "updatedAt": "2026-09-06T20:23:58.634523+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "原田龍二",
-      "opening": "今『原田龍二』が検索で伸びてるみたい。これ知ってる？",
+      "title": "有 吉弘 行",
+      "opening": "今『有 吉弘 行』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -20,7 +20,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『原田龍二』知ってる？",
+      "videoTitle": "今話題の『有 吉弘 行』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -45,7 +45,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "原田龍二",
+      "trendOrigin": "有 吉弘 行",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -60,8 +60,8 @@
       "id": "trend-2",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "ユヴェントス 対 ミラン",
-      "opening": "今『ユヴェントス 対 ミラン』が検索で伸びてるみたい。これ知ってる？",
+      "title": "ダルトン・ラッシング",
+      "opening": "今『ダルトン・ラッシング』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -75,7 +75,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『ユヴェントス 対 ミラン』知ってる？",
+      "videoTitle": "今話題の『ダルトン・ラッシング』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -100,7 +100,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "ユヴェントス 対 ミラン",
+      "trendOrigin": "ダルトン・ラッシング",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -115,8 +115,8 @@
       "id": "trend-3",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "柳瀬 雄 之",
-      "opening": "今『柳瀬 雄 之』が検索で伸びてるみたい。これ知ってる？",
+      "title": "路線",
+      "opening": "今『路線』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -130,7 +130,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『柳瀬 雄 之』知ってる？",
+      "videoTitle": "今話題の『路線』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -155,7 +155,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "柳瀬 雄 之",
+      "trendOrigin": "路線",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -170,8 +170,8 @@
       "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "交通情報",
-      "opening": "今『交通情報』が検索で伸びてるみたい。これ知ってる？",
+      "title": "井上尚弥",
+      "opening": "今『井上尚弥』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -185,7 +185,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『交通情報』知ってる？",
+      "videoTitle": "今話題の『井上尚弥』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -210,7 +210,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "交通情報",
+      "trendOrigin": "井上尚弥",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -225,8 +225,8 @@
       "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "プレミアリーグ 順位",
-      "opening": "今『プレミアリーグ 順位』が検索で伸びてるみたい。これ知ってる？",
+      "title": "マリナーズ 対 アスレチックス",
+      "opening": "今『マリナーズ 対 アスレチックス』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -240,7 +240,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『プレミアリーグ 順位』知ってる？",
+      "videoTitle": "今話題の『マリナーズ 対 アスレチックス』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -265,7 +265,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "プレミアリーグ 順位",
+      "trendOrigin": "マリナーズ 対 アスレチックス",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -280,8 +280,8 @@
       "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "kf-21",
-      "opening": "今『kf-21』が検索で伸びてるみたい。これ知ってる？",
+      "title": "レンジャーズ 対 レイズ",
+      "opening": "今『レンジャーズ 対 レイズ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -295,7 +295,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『kf-21』知ってる？",
+      "videoTitle": "今話題の『レンジャーズ 対 レイズ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -320,7 +320,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "kf-21",
+      "trendOrigin": "レンジャーズ 対 レイズ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -335,8 +335,8 @@
       "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "石井ふく子",
-      "opening": "今『石井ふく子』が検索で伸びてるみたい。これ知ってる？",
+      "title": "岡田彰布",
+      "opening": "今『岡田彰布』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -350,7 +350,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『石井ふく子』知ってる？",
+      "videoTitle": "今話題の『岡田彰布』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -375,7 +375,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "石井ふく子",
+      "trendOrigin": "岡田彰布",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -390,8 +390,8 @@
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "valencia cf vs fc barcelona standings",
-      "opening": "今『valencia cf vs fc barcelona standings』が検索で伸びてるみたい。これ知ってる？",
+      "title": "仙台天気",
+      "opening": "今『仙台天気』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -405,7 +405,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『valencia cf vs fc barcelona standings』知ってる？",
+      "videoTitle": "今話題の『仙台天気』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -430,7 +430,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "valencia cf vs fc barcelona standings",
+      "trendOrigin": "仙台天気",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
