@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-10T07:27:22.864725+00:00",
+  "updatedAt": "2026-09-10T08:28:05.383153+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "給付",
-      "opening": "今『給付』が検索で伸びてるみたい。これ知ってる？",
+      "title": "八重洲 トフロム",
+      "opening": "今『八重洲 トフロム』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -20,7 +20,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『給付』知ってる？",
+      "videoTitle": "今話題の『八重洲 トフロム』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -45,7 +45,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "給付",
+      "trendOrigin": "八重洲 トフロム",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -60,8 +60,8 @@
       "id": "trend-2",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "エルニーニョ",
-      "opening": "今『エルニーニョ』が検索で伸びてるみたい。これ知ってる？",
+      "title": "甲子園 今日の試合",
+      "opening": "今『甲子園 今日の試合』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -75,7 +75,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『エルニーニョ』知ってる？",
+      "videoTitle": "今話題の『甲子園 今日の試合』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -100,7 +100,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "エルニーニョ",
+      "trendOrigin": "甲子園 今日の試合",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -115,8 +115,8 @@
       "id": "trend-3",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "高木菜那",
-      "opening": "今『高木菜那』が検索で伸びてるみたい。これ知ってる？",
+      "title": "rena",
+      "opening": "今『rena』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -130,7 +130,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『高木菜那』知ってる？",
+      "videoTitle": "今話題の『rena』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -155,7 +155,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "高木菜那",
+      "trendOrigin": "rena",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -170,8 +170,8 @@
       "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "三十三銀行",
-      "opening": "今『三十三銀行』が検索で伸びてるみたい。これ知ってる？",
+      "title": "usj",
+      "opening": "今『usj』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -185,7 +185,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『三十三銀行』知ってる？",
+      "videoTitle": "今話題の『usj』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -210,7 +210,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "三十三銀行",
+      "trendOrigin": "usj",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -225,8 +225,8 @@
       "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "フェリー",
-      "opening": "今『フェリー』が検索で伸びてるみたい。これ知ってる？",
+      "title": "赤西 仁 沢尻 エリカ",
+      "opening": "今『赤西 仁 沢尻 エリカ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -240,7 +240,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『フェリー』知ってる？",
+      "videoTitle": "今話題の『赤西 仁 沢尻 エリカ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -265,7 +265,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "フェリー",
+      "trendOrigin": "赤西 仁 沢尻 エリカ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -280,8 +280,8 @@
       "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "老化",
-      "opening": "今『老化』が検索で伸びてるみたい。これ知ってる？",
+      "title": "警視庁",
+      "opening": "今『警視庁』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -295,7 +295,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『老化』知ってる？",
+      "videoTitle": "今話題の『警視庁』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -320,7 +320,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "老化",
+      "trendOrigin": "警視庁",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -335,8 +335,8 @@
       "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "しまむら スター ウォーズ",
-      "opening": "今『しまむら スター ウォーズ』が検索で伸びてるみたい。これ知ってる？",
+      "title": "原子力潜水艦",
+      "opening": "今『原子力潜水艦』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -350,7 +350,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『しまむら スター ウォーズ』知ってる？",
+      "videoTitle": "今話題の『原子力潜水艦』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -375,7 +375,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "しまむら スター ウォーズ",
+      "trendOrigin": "原子力潜水艦",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -390,8 +390,8 @@
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "rizin live",
-      "opening": "今『rizin live』が検索で伸びてるみたい。これ知ってる？",
+      "title": "koki",
+      "opening": "今『koki』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -405,7 +405,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『rizin live』知ってる？",
+      "videoTitle": "今話題の『koki』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -430,7 +430,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "rizin live",
+      "trendOrigin": "koki",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
