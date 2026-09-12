@@ -1,8 +1,338 @@
 {
-  "updatedAt": "2026-09-12T19:21:39.610102+00:00",
+  "updatedAt": "2026-09-12T20:24:54.333664+00:00",
   "topics": [
     {
       "id": "trend-1",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "整体",
+      "opening": "今『整体』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『整体』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-1-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "整体",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-2",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "al-khaleej vs al-nassr",
+      "opening": "今『al-khaleej vs al-nassr』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『al-khaleej vs al-nassr』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-2-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "al-khaleej vs al-nassr",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-3",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "la liga",
+      "opening": "今『la liga』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『la liga』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-3-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "la liga",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-4",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "レアル・マドリード",
+      "opening": "今『レアル・マドリード』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『レアル・マドリード』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-4-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "レアル・マドリード",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-5",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "桑田佳祐",
+      "opening": "今『桑田佳祐』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『桑田佳祐』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-5-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "桑田佳祐",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-6",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "jt杯 将棋",
+      "opening": "今『jt杯 将棋』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『jt杯 将棋』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-6-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "jt杯 将棋",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
       "title": "real madrid vs rayo vallecano",
@@ -29,7 +359,7 @@
       }
     },
     {
-      "id": "derived-1-1",
+      "id": "derived-7-1",
       "source": "トレンド派生",
       "genre": "価値観",
       "title": "流行ってるものって気になる？",
@@ -57,369 +387,11 @@
       }
     },
     {
-      "id": "trend-2",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "sunderland vs arsenal",
-      "opening": "今『sunderland vs arsenal』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『sunderland vs arsenal』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-2-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "sunderland vs arsenal",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-3",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "ねぶた祭り",
-      "opening": "今『ねぶた祭り』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『ねぶた祭り』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-3-1",
-      "source": "トレンド派生",
-      "genre": "季節",
-      "title": "夏と冬、どっちが嫌？",
-      "opening": "夏と冬なら、どっちの方が嫌？",
-      "expansions": [
-        "暑いのと寒いのどっちが耐えられる？",
-        "一番好きな季節は？",
-        "夏に絶対やることある？"
-      ],
-      "related": [
-        "夏",
-        "冬",
-        "季節",
-        "休日"
-      ],
-      "trendOrigin": "ねぶた祭り",
-      "shortReason": "誰でも答えられ、真逆の意見が生まれやすい。",
-      "splitPoint": "夏派 / 冬派。",
-      "videoTitle": "夏と冬、どっちがマシ？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "derived-3-2",
-      "source": "トレンド派生",
-      "genre": "日常",
-      "title": "寝る時エアコン何度？",
-      "opening": "みんな寝る時エアコン何度にしてる？",
-      "expansions": [
-        "朝までつけっぱなし？",
-        "タイマー使う？",
-        "電気代って気にする？"
-      ],
-      "related": [
-        "睡眠",
-        "電気代",
-        "夏",
-        "生活"
-      ],
-      "trendOrigin": "ねぶた祭り",
-      "shortReason": "数字で回答でき、生活習慣の違いがコメントになりやすい。",
-      "splitPoint": "つけっぱなし派 / タイマー派。",
-      "videoTitle": "寝る時のエアコン、何度が正解？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-4",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "パリfc 対 リヨン",
-      "opening": "今『パリfc 対 リヨン』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『パリfc 対 リヨン』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-4-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "パリfc 対 リヨン",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-5",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "サンダーランド 対 アーセナル",
-      "opening": "今『サンダーランド 対 アーセナル』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『サンダーランド 対 アーセナル』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-5-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "サンダーランド 対 アーセナル",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-6",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "rマドリード 対 ラージョ",
-      "opening": "今『rマドリード 対 ラージョ』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『rマドリード 対 ラージョ』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-6-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "rマドリード 対 ラージョ",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-7",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "メダル",
-      "opening": "今『メダル』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『メダル』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-7-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "メダル",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "tgs",
-      "opening": "今『tgs』が検索で伸びてるみたい。これ知ってる？",
+      "title": "バレーボールイラン男子代表",
+      "opening": "今『バレーボールイラン男子代表』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -433,7 +405,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『tgs』知ってる？",
+      "videoTitle": "今話題の『バレーボールイラン男子代表』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -458,7 +430,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "tgs",
+      "trendOrigin": "バレーボールイラン男子代表",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
