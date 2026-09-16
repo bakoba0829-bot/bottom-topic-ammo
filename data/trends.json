@@ -1,8 +1,393 @@
 {
-  "updatedAt": "2026-09-16T15:25:44.013615+00:00",
+  "updatedAt": "2026-09-16T16:25:44.270391+00:00",
   "topics": [
     {
       "id": "trend-1",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "nhk",
+      "opening": "今『nhk』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『nhk』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-1-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "nhk",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-2",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "ヤフー",
+      "opening": "今『ヤフー』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『ヤフー』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-2-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "ヤフー",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-3",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "yahoo!",
+      "opening": "今『yahoo!』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『yahoo!』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-3-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "yahoo!",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-4",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "行司",
+      "opening": "今『行司』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『行司』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-4-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "行司",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-5",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "オールナイトニッポン",
+      "opening": "今『オールナイトニッポン』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『オールナイトニッポン』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-5-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "オールナイトニッポン",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-6",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "リアルタイム",
+      "opening": "今『リアルタイム』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『リアルタイム』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-6-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "リアルタイム",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-7",
+      "source": "Google Trends",
+      "genre": "トレンド",
+      "title": "割烹 こめを",
+      "opening": "今『割烹 こめを』が検索で伸びてるみたい。これ知ってる？",
+      "expansions": [
+        "なんで今話題なんだろう？",
+        "最近ネットで知ったものある？",
+        "流行ってるものってチェックする派？"
+      ],
+      "related": [
+        "SNS",
+        "最近の流行",
+        "ネット",
+        "今日の出来事"
+      ],
+      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
+      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
+      "videoTitle": "今話題の『割烹 こめを』知ってる？",
+      "scores": {
+        "first": 4,
+        "short": 3,
+        "expand": 3,
+        "long": 3
+      }
+    },
+    {
+      "id": "derived-7-1",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "expansions": [
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
+      ],
+      "related": [
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
+      ],
+      "trendOrigin": "割烹 こめを",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
       "title": "earthquakes japan",
@@ -29,7 +414,7 @@
       }
     },
     {
-      "id": "derived-1-1",
+      "id": "derived-8-1",
       "source": "トレンド派生",
       "genre": "価値観",
       "title": "流行ってるものって気になる？",
@@ -46,336 +431,6 @@
         "ネット"
       ],
       "trendOrigin": "earthquakes japan",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-2",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "earthquake now",
-      "opening": "今『earthquake now』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『earthquake now』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-2-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "earthquake now",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-3",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "지진",
-      "opening": "今『지진』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『지진』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-3-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "지진",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-4",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "震源",
-      "opening": "今『震源』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『震源』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-4-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "震源",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-5",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "tohoシネマズ梅田",
-      "opening": "今『tohoシネマズ梅田』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『tohoシネマズ梅田』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-5-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "tohoシネマズ梅田",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-6",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "井上拓真",
-      "opening": "今『井上拓真』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『井上拓真』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-6-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "井上拓真",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-7",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "earthquake",
-      "opening": "今『earthquake』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『earthquake』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-7-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "earthquake",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
