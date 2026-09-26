@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-26T19:50:16.645037+00:00",
+  "updatedAt": "2026-09-26T22:47:53.818934+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "ブルージェイズ 対 レッズ",
-      "opening": "今『ブルージェイズ 対 レッズ』が検索で伸びてるみたい。これ知ってる？",
+      "title": "京王電鉄",
+      "opening": "今『京王電鉄』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -20,7 +20,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『ブルージェイズ 対 レッズ』知ってる？",
+      "videoTitle": "今話題の『京王電鉄』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -45,7 +45,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "ブルージェイズ 対 レッズ",
+      "trendOrigin": "京王電鉄",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -60,8 +60,8 @@
       "id": "trend-2",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "england vs spain",
-      "opening": "今『england vs spain』が検索で伸びてるみたい。これ知ってる？",
+      "title": "走る",
+      "opening": "今『走る』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -75,7 +75,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『england vs spain』知ってる？",
+      "videoTitle": "今話題の『走る』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -86,52 +86,24 @@
     {
       "id": "derived-2-1",
       "source": "トレンド派生",
-      "genre": "日常",
-      "title": "スマホって何年で買い替える？",
-      "opening": "みんなスマホって何年くらい使ったら買い替える？",
-      "expansions": [
-        "壊れるまで使う？",
-        "新型が出たら欲しくなる？",
-        "今までで一番長く使ったスマホ何年？"
-      ],
-      "related": [
-        "スマホ",
-        "買い物",
-        "新商品",
-        "お金"
-      ],
-      "trendOrigin": "england vs spain",
-      "shortReason": "ほぼ全員が経験を持っていて、一言でも答えられる。",
-      "splitPoint": "壊れるまで使う派 / 新型へ買い替える派。",
-      "videoTitle": "スマホ何年使ったら買い替える？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 5
-      }
-    },
-    {
-      "id": "derived-2-2",
-      "source": "トレンド派生",
       "genre": "価値観",
-      "title": "スマホに10万円以上出せる？",
-      "opening": "スマホに10万円以上って普通に出せる？高い？",
+      "title": "流行ってるものって気になる？",
+      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
       "expansions": [
-        "一番高かった買い物って何？",
-        "分割払いなら気にならない？",
-        "性能と値段どっち優先？"
+        "流行ってるから始めたものある？",
+        "逆に流行ってても興味ないものある？",
+        "SNSで流行を知ること多い？"
       ],
       "related": [
-        "お金",
-        "買い物",
-        "節約",
-        "価値観"
+        "SNS",
+        "流行",
+        "趣味",
+        "ネット"
       ],
-      "trendOrigin": "england vs spain",
-      "shortReason": "金額を提示するだけで立場が分かれ、短尺動画にしやすい。",
-      "splitPoint": "毎日使うなら安い派 / スマホに10万円は高い派。",
-      "videoTitle": "スマホに10万円以上、出せる？",
+      "trendOrigin": "走る",
+      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
+      "splitPoint": "流行に乗る派 / マイペース派。",
+      "videoTitle": "流行ってると気になっちゃう？",
       "scores": {
         "first": 5,
         "short": 5,
@@ -143,8 +115,8 @@
       "id": "trend-3",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "イングランド 対 スペイン",
-      "opening": "今『イングランド 対 スペイン』が検索で伸びてるみたい。これ知ってる？",
+      "title": "記録的短時間大雨情報",
+      "opening": "今『記録的短時間大雨情報』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -158,7 +130,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『イングランド 対 スペイン』知ってる？",
+      "videoTitle": "今話題の『記録的短時間大雨情報』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -183,7 +155,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "イングランド 対 スペイン",
+      "trendOrigin": "記録的短時間大雨情報",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -198,8 +170,8 @@
       "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "せいや 猪俣",
-      "opening": "今『せいや 猪俣』が検索で伸びてるみたい。これ知ってる？",
+      "title": "投手",
+      "opening": "今『投手』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -213,7 +185,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『せいや 猪俣』知ってる？",
+      "videoTitle": "今話題の『投手』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -238,7 +210,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "せいや 猪俣",
+      "trendOrigin": "投手",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -253,8 +225,8 @@
       "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "砂時間を越えろ 究極 モンスト 攻略",
-      "opening": "今『砂時間を越えろ 究極 モンスト 攻略』が検索で伸びてるみたい。これ知ってる？",
+      "title": "amoc",
+      "opening": "今『amoc』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -268,7 +240,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『砂時間を越えろ 究極 モンスト 攻略』知ってる？",
+      "videoTitle": "今話題の『amoc』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -293,7 +265,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "砂時間を越えろ 究極 モンスト 攻略",
+      "trendOrigin": "amoc",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -308,8 +280,8 @@
       "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "石橋凌",
-      "opening": "今『石橋凌』が検索で伸びてるみたい。これ知ってる？",
+      "title": "england national football team vs spain national football team standings",
+      "opening": "今『england national football team vs spain national football team standings』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -323,7 +295,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『石橋凌』知ってる？",
+      "videoTitle": "今話題の『england national football team vs spain national football team standings』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -334,24 +306,52 @@
     {
       "id": "derived-6-1",
       "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "genre": "日常",
+      "title": "スマホって何年で買い替える？",
+      "opening": "みんなスマホって何年くらい使ったら買い替える？",
       "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
+        "壊れるまで使う？",
+        "新型が出たら欲しくなる？",
+        "今までで一番長く使ったスマホ何年？"
       ],
       "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
+        "スマホ",
+        "買い物",
+        "新商品",
+        "お金"
       ],
-      "trendOrigin": "石橋凌",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
+      "trendOrigin": "england national football team vs spain national football team standings",
+      "shortReason": "ほぼ全員が経験を持っていて、一言でも答えられる。",
+      "splitPoint": "壊れるまで使う派 / 新型へ買い替える派。",
+      "videoTitle": "スマホ何年使ったら買い替える？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 5
+      }
+    },
+    {
+      "id": "derived-6-2",
+      "source": "トレンド派生",
+      "genre": "価値観",
+      "title": "スマホに10万円以上出せる？",
+      "opening": "スマホに10万円以上って普通に出せる？高い？",
+      "expansions": [
+        "一番高かった買い物って何？",
+        "分割払いなら気にならない？",
+        "性能と値段どっち優先？"
+      ],
+      "related": [
+        "お金",
+        "買い物",
+        "節約",
+        "価値観"
+      ],
+      "trendOrigin": "england national football team vs spain national football team standings",
+      "shortReason": "金額を提示するだけで立場が分かれ、短尺動画にしやすい。",
+      "splitPoint": "毎日使うなら安い派 / スマホに10万円は高い派。",
+      "videoTitle": "スマホに10万円以上、出せる？",
       "scores": {
         "first": 5,
         "short": 5,
@@ -363,8 +363,8 @@
       "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "上与那原寛和",
-      "opening": "今『上与那原寛和』が検索で伸びてるみたい。これ知ってる？",
+      "title": "映画賞",
+      "opening": "今『映画賞』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -378,7 +378,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『上与那原寛和』知ってる？",
+      "videoTitle": "今話題の『映画賞』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -403,7 +403,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "上与那原寛和",
+      "trendOrigin": "映画賞",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -418,8 +418,8 @@
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "女子 バスケットボール 日本代表",
-      "opening": "今『女子 バスケットボール 日本代表』が検索で伸びてるみたい。これ知ってる？",
+      "title": "付録",
+      "opening": "今『付録』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -433,7 +433,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『女子 バスケットボール 日本代表』知ってる？",
+      "videoTitle": "今話題の『付録』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -458,7 +458,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "女子 バスケットボール 日本代表",
+      "trendOrigin": "付録",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
