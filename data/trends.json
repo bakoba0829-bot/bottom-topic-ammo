@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-06T20:17:31.715755+00:00",
+  "updatedAt": "2026-10-07T00:41:07.913337+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "west indies vs india",
-      "opening": "今『west indies vs india』が検索で伸びてるみたい。これ知ってる？",
+      "title": "ロシア空軍",
+      "opening": "今『ロシア空軍』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -20,7 +20,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『west indies vs india』知ってる？",
+      "videoTitle": "今話題の『ロシア空軍』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -45,7 +45,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "west indies vs india",
+      "trendOrigin": "ロシア空軍",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -60,8 +60,8 @@
       "id": "trend-2",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "nyダウ",
-      "opening": "今『nyダウ』が検索で伸びてるみたい。これ知ってる？",
+      "title": "方言",
+      "opening": "今『方言』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -75,7 +75,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『nyダウ』知ってる？",
+      "videoTitle": "今話題の『方言』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -100,7 +100,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "nyダウ",
+      "trendOrigin": "方言",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -115,8 +115,8 @@
       "id": "trend-3",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "楽天 不正 アクセス",
-      "opening": "今『楽天 不正 アクセス』が検索で伸びてるみたい。これ知ってる？",
+      "title": "スポナビ",
+      "opening": "今『スポナビ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -130,7 +130,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『楽天 不正 アクセス』知ってる？",
+      "videoTitle": "今話題の『スポナビ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -155,7 +155,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "楽天 不正 アクセス",
+      "trendOrigin": "スポナビ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -170,8 +170,8 @@
       "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "ミゲル ロハス",
-      "opening": "今『ミゲル ロハス』が検索で伸びてるみたい。これ知ってる？",
+      "title": "家計",
+      "opening": "今『家計』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -185,7 +185,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『ミゲル ロハス』知ってる？",
+      "videoTitle": "今話題の『家計』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -210,7 +210,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "ミゲル ロハス",
+      "trendOrigin": "家計",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -225,8 +225,8 @@
       "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "ソフトバンクグループ",
-      "opening": "今『ソフトバンクグループ』が検索で伸びてるみたい。これ知ってる？",
+      "title": "あさイチ",
+      "opening": "今『あさイチ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -240,7 +240,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『ソフトバンクグループ』知ってる？",
+      "videoTitle": "今話題の『あさイチ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -265,7 +265,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "ソフトバンクグループ",
+      "trendOrigin": "あさイチ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -280,8 +280,8 @@
       "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "england vs czechia",
-      "opening": "今『england vs czechia』が検索で伸びてるみたい。これ知ってる？",
+      "title": "簗和生",
+      "opening": "今『簗和生』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -295,7 +295,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『england vs czechia』知ってる？",
+      "videoTitle": "今話題の『簗和生』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -320,7 +320,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "england vs czechia",
+      "trendOrigin": "簗和生",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -335,8 +335,8 @@
       "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "アジア競技大会",
-      "opening": "今『アジア競技大会』が検索で伸びてるみたい。これ知ってる？",
+      "title": "マット・オルソン",
+      "opening": "今『マット・オルソン』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -350,7 +350,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『アジア競技大会』知ってる？",
+      "videoTitle": "今話題の『マット・オルソン』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -375,7 +375,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "アジア競技大会",
+      "trendOrigin": "マット・オルソン",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -390,8 +390,8 @@
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "リアルタイム",
-      "opening": "今『リアルタイム』が検索で伸びてるみたい。これ知ってる？",
+      "title": "アトランタ・ブレーブス 対 ドジャース 試合 選手データ",
+      "opening": "今『アトランタ・ブレーブス 対 ドジャース 試合 選手データ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -405,7 +405,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『リアルタイム』知ってる？",
+      "videoTitle": "今話題の『アトランタ・ブレーブス 対 ドジャース 試合 選手データ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -430,7 +430,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "リアルタイム",
+      "trendOrigin": "アトランタ・ブレーブス 対 ドジャース 試合 選手データ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
