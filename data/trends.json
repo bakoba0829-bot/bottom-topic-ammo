@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-17T21:26:18.100095+00:00",
+  "updatedAt": "2026-10-18T00:01:13.369096+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "メジャーリーグベースボール",
-      "opening": "今『メジャーリーグベースボール』が検索で伸びてるみたい。これ知ってる？",
+      "title": "落合博満",
+      "opening": "今『落合博満』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -20,7 +20,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『メジャーリーグベースボール』知ってる？",
+      "videoTitle": "今話題の『落合博満』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -45,7 +45,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "メジャーリーグベースボール",
+      "trendOrigin": "落合博満",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -60,8 +60,8 @@
       "id": "trend-2",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "ローマ 対 ジェノア",
-      "opening": "今『ローマ 対 ジェノア』が検索で伸びてるみたい。これ知ってる？",
+      "title": "atlanta united vs inter miami",
+      "opening": "今『atlanta united vs inter miami』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -75,7 +75,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『ローマ 対 ジェノア』知ってる？",
+      "videoTitle": "今話題の『atlanta united vs inter miami』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -100,7 +100,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "ローマ 対 ジェノア",
+      "trendOrigin": "atlanta united vs inter miami",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -115,8 +115,8 @@
       "id": "trend-3",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "節約",
-      "opening": "今『節約』が検索で伸びてるみたい。これ知ってる？",
+      "title": "粛清",
+      "opening": "今『粛清』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -130,7 +130,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『節約』知ってる？",
+      "videoTitle": "今話題の『粛清』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -155,7 +155,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "節約",
+      "trendOrigin": "粛清",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -170,8 +170,8 @@
       "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "新東名 事故",
-      "opening": "今『新東名 事故』が検索で伸びてるみたい。これ知ってる？",
+      "title": "ヴィランズランド",
+      "opening": "今『ヴィランズランド』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -185,7 +185,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『新東名 事故』知ってる？",
+      "videoTitle": "今話題の『ヴィランズランド』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -210,7 +210,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "新東名 事故",
+      "trendOrigin": "ヴィランズランド",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -225,8 +225,8 @@
       "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "真田十勇士 shadows of the ten ninja",
-      "opening": "今『真田十勇士 shadows of the ten ninja』が検索で伸びてるみたい。これ知ってる？",
+      "title": "箱根駅伝出場校 2027",
+      "opening": "今『箱根駅伝出場校 2027』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -240,7 +240,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『真田十勇士 shadows of the ten ninja』知ってる？",
+      "videoTitle": "今話題の『箱根駅伝出場校 2027』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -265,7 +265,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "真田十勇士 shadows of the ten ninja",
+      "trendOrigin": "箱根駅伝出場校 2027",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -280,8 +280,8 @@
       "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "klasemen real betis vs fc barcelona",
-      "opening": "今『klasemen real betis vs fc barcelona』が検索で伸びてるみたい。これ知ってる？",
+      "title": "アトランタ・ユナイテッド 対 インテル・マイアミ",
+      "opening": "今『アトランタ・ユナイテッド 対 インテル・マイアミ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -295,7 +295,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『klasemen real betis vs fc barcelona』知ってる？",
+      "videoTitle": "今話題の『アトランタ・ユナイテッド 対 インテル・マイアミ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -320,7 +320,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "klasemen real betis vs fc barcelona",
+      "trendOrigin": "アトランタ・ユナイテッド 対 インテル・マイアミ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -335,8 +335,8 @@
       "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "山田 邦子",
-      "opening": "今『山田 邦子』が検索で伸びてるみたい。これ知ってる？",
+      "title": "イエメン",
+      "opening": "今『イエメン』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -350,7 +350,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『山田 邦子』知ってる？",
+      "videoTitle": "今話題の『イエメン』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -375,7 +375,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "山田 邦子",
+      "trendOrigin": "イエメン",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -390,8 +390,8 @@
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "real betis vs fc barcelona standings",
-      "opening": "今『real betis vs fc barcelona standings』が検索で伸びてるみたい。これ知ってる？",
+      "title": "弘法山",
+      "opening": "今『弘法山』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -405,7 +405,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『real betis vs fc barcelona standings』知ってる？",
+      "videoTitle": "今話題の『弘法山』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -430,7 +430,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "real betis vs fc barcelona standings",
+      "trendOrigin": "弘法山",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
