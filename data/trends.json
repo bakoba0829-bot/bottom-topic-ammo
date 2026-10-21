@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-21T13:45:32.294039+00:00",
+  "updatedAt": "2026-10-21T18:36:22.410361+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "竹田恒泰",
-      "opening": "今『竹田恒泰』が検索で伸びてるみたい。これ知ってる？",
+      "title": "バイエルン 対 アーセナル",
+      "opening": "今『バイエルン 対 アーセナル』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -20,7 +20,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『竹田恒泰』知ってる？",
+      "videoTitle": "今話題の『バイエルン 対 アーセナル』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -45,7 +45,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "竹田恒泰",
+      "trendOrigin": "バイエルン 対 アーセナル",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -60,8 +60,8 @@
       "id": "trend-2",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "車椅子インフルエンサー",
-      "opening": "今『車椅子インフルエンサー』が検索で伸びてるみたい。これ知ってる？",
+      "title": "アストン・ビラ 対 バイキング",
+      "opening": "今『アストン・ビラ 対 バイキング』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -75,7 +75,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『車椅子インフルエンサー』知ってる？",
+      "videoTitle": "今話題の『アストン・ビラ 対 バイキング』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -100,7 +100,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "車椅子インフルエンサー",
+      "trendOrigin": "アストン・ビラ 対 バイキング",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -115,8 +115,8 @@
       "id": "trend-3",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "長野久義",
-      "opening": "今『長野久義』が検索で伸びてるみたい。これ知ってる？",
+      "title": "rマドリード 対 rbライプツィヒ",
+      "opening": "今『rマドリード 対 rbライプツィヒ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -130,7 +130,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『長野久義』知ってる？",
+      "videoTitle": "今話題の『rマドリード 対 rbライプツィヒ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -155,7 +155,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "長野久義",
+      "trendOrigin": "rマドリード 対 rbライプツィヒ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -170,8 +170,8 @@
       "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "イープラス",
-      "opening": "今『イープラス』が検索で伸びてるみたい。これ知ってる？",
+      "title": "bioware",
+      "opening": "今『bioware』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -185,7 +185,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『イープラス』知ってる？",
+      "videoTitle": "今話題の『bioware』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -210,7 +210,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "イープラス",
+      "trendOrigin": "bioware",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -225,8 +225,8 @@
       "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "グーグル",
-      "opening": "今『グーグル』が検索で伸びてるみたい。これ知ってる？",
+      "title": "manchester united",
+      "opening": "今『manchester united』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -240,7 +240,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『グーグル』知ってる？",
+      "videoTitle": "今話題の『manchester united』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -265,7 +265,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "グーグル",
+      "trendOrigin": "manchester united",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -280,8 +280,8 @@
       "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "家計",
-      "opening": "今『家計』が検索で伸びてるみたい。これ知ってる？",
+      "title": "愛媛 対 山口",
+      "opening": "今『愛媛 対 山口』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -295,7 +295,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『家計』知ってる？",
+      "videoTitle": "今話題の『愛媛 対 山口』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -320,7 +320,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "家計",
+      "trendOrigin": "愛媛 対 山口",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -335,8 +335,8 @@
       "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "水難事故",
-      "opening": "今『水難事故』が検索で伸びてるみたい。これ知ってる？",
+      "title": "マンチェスターユナイテッド",
+      "opening": "今『マンチェスターユナイテッド』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -350,7 +350,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『水難事故』知ってる？",
+      "videoTitle": "今話題の『マンチェスターユナイテッド』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -375,7 +375,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "水難事故",
+      "trendOrigin": "マンチェスターユナイテッド",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -390,8 +390,8 @@
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "子役",
-      "opening": "今『子役』が検索で伸びてるみたい。これ知ってる？",
+      "title": "final fantasy resonance",
+      "opening": "今『final fantasy resonance』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -405,7 +405,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『子役』知ってる？",
+      "videoTitle": "今話題の『final fantasy resonance』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -430,7 +430,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "子役",
+      "trendOrigin": "final fantasy resonance",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
