@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-20T22:17:36.750970+00:00",
+  "updatedAt": "2026-10-21T01:33:24.524522+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "thứ hạng của psg gặp barcelona",
-      "opening": "今『thứ hạng của psg gặp barcelona』が検索で伸びてるみたい。これ知ってる？",
+      "title": "滝沢カレン",
+      "opening": "今『滝沢カレン』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -20,7 +20,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『thứ hạng của psg gặp barcelona』知ってる？",
+      "videoTitle": "今話題の『滝沢カレン』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -45,7 +45,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "thứ hạng của psg gặp barcelona",
+      "trendOrigin": "滝沢カレン",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -60,8 +60,8 @@
       "id": "trend-2",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "介護支援専門員",
-      "opening": "今『介護支援専門員』が検索で伸びてるみたい。これ知ってる？",
+      "title": "自信",
+      "opening": "今『自信』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -75,7 +75,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『介護支援専門員』知ってる？",
+      "videoTitle": "今話題の『自信』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -100,7 +100,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "介護支援専門員",
+      "trendOrigin": "自信",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -115,8 +115,8 @@
       "id": "trend-3",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "福岡 天気",
-      "opening": "今『福岡 天気』が検索で伸びてるみたい。これ知ってる？",
+      "title": "裁判",
+      "opening": "今『裁判』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -130,7 +130,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『福岡 天気』知ってる？",
+      "videoTitle": "今話題の『裁判』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -155,7 +155,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "福岡 天気",
+      "trendOrigin": "裁判",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -170,8 +170,8 @@
       "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "富山天気",
-      "opening": "今『富山天気』が検索で伸びてるみたい。これ知ってる？",
+      "title": "php 脆弱性",
+      "opening": "今『php 脆弱性』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -185,7 +185,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『富山天気』知ってる？",
+      "videoTitle": "今話題の『php 脆弱性』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -210,7 +210,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "富山天気",
+      "trendOrigin": "php 脆弱性",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -225,8 +225,8 @@
       "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "横浜天気",
-      "opening": "今『横浜天気』が検索で伸びてるみたい。これ知ってる？",
+      "title": "金与正",
+      "opening": "今『金与正』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -240,7 +240,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『横浜天気』知ってる？",
+      "videoTitle": "今話題の『金与正』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -265,7 +265,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "横浜天気",
+      "trendOrigin": "金与正",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -280,8 +280,8 @@
       "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "そなえる冠水マップ",
-      "opening": "今『そなえる冠水マップ』が検索で伸びてるみたい。これ知ってる？",
+      "title": "林芳正",
+      "opening": "今『林芳正』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -295,7 +295,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『そなえる冠水マップ』知ってる？",
+      "videoTitle": "今話題の『林芳正』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -320,7 +320,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "そなえる冠水マップ",
+      "trendOrigin": "林芳正",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -335,8 +335,8 @@
       "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "坂本勇人",
-      "opening": "今『坂本勇人』が検索で伸びてるみたい。これ知ってる？",
+      "title": "nba直播",
+      "opening": "今『nba直播』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -350,7 +350,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『坂本勇人』知ってる？",
+      "videoTitle": "今話題の『nba直播』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -375,62 +375,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "坂本勇人",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
-      "scores": {
-        "first": 5,
-        "short": 5,
-        "expand": 5,
-        "long": 4
-      }
-    },
-    {
-      "id": "trend-8",
-      "source": "Google Trends",
-      "genre": "トレンド",
-      "title": "アジア 卓球 選手権",
-      "opening": "今『アジア 卓球 選手権』が検索で伸びてるみたい。これ知ってる？",
-      "expansions": [
-        "なんで今話題なんだろう？",
-        "最近ネットで知ったものある？",
-        "流行ってるものってチェックする派？"
-      ],
-      "related": [
-        "SNS",
-        "最近の流行",
-        "ネット",
-        "今日の出来事"
-      ],
-      "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
-      "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『アジア 卓球 選手権』知ってる？",
-      "scores": {
-        "first": 4,
-        "short": 3,
-        "expand": 3,
-        "long": 3
-      }
-    },
-    {
-      "id": "derived-8-1",
-      "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
-      "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
-      ],
-      "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
-      ],
-      "trendOrigin": "アジア 卓球 選手権",
+      "trendOrigin": "nba直播",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
