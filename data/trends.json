@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-03T23:19:59.040496+00:00",
+  "updatedAt": "2026-11-04T06:14:57.204103+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "atlético madrid vs bayern munich standings",
-      "opening": "今『atlético madrid vs bayern munich standings』が検索で伸びてるみたい。これ知ってる？",
+      "title": "仙台市長",
+      "opening": "今『仙台市長』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -20,7 +20,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『atlético madrid vs bayern munich standings』知ってる？",
+      "videoTitle": "今話題の『仙台市長』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -45,7 +45,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "atlético madrid vs bayern munich standings",
+      "trendOrigin": "仙台市長",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -60,8 +60,8 @@
       "id": "trend-2",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "ブラッサム あらすじ",
-      "opening": "今『ブラッサム あらすじ』が検索で伸びてるみたい。これ知ってる？",
+      "title": "坂元達裕",
+      "opening": "今『坂元達裕』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -75,7 +75,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『ブラッサム あらすじ』知ってる？",
+      "videoTitle": "今話題の『坂元達裕』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -100,7 +100,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "ブラッサム あらすじ",
+      "trendOrigin": "坂元達裕",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -115,8 +115,8 @@
       "id": "trend-3",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "硤合憲三",
-      "opening": "今『硤合憲三』が検索で伸びてるみたい。これ知ってる？",
+      "title": "鈴木章斗",
+      "opening": "今『鈴木章斗』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -130,7 +130,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『硤合憲三』知ってる？",
+      "videoTitle": "今話題の『鈴木章斗』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -155,7 +155,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "硤合憲三",
+      "trendOrigin": "鈴木章斗",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -170,8 +170,8 @@
       "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "正 源司 陽子 インスタ",
-      "opening": "今『正 源司 陽子 インスタ』が検索で伸びてるみたい。これ知ってる？",
+      "title": "日刊建設工業新聞",
+      "opening": "今『日刊建設工業新聞』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -185,7 +185,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『正 源司 陽子 インスタ』知ってる？",
+      "videoTitle": "今話題の『日刊建設工業新聞』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -210,7 +210,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "正 源司 陽子 インスタ",
+      "trendOrigin": "日刊建設工業新聞",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -225,8 +225,8 @@
       "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "thứ hạng của man utd gặp as roma",
-      "opening": "今『thứ hạng của man utd gặp as roma』が検索で伸びてるみたい。これ知ってる？",
+      "title": "imalu",
+      "opening": "今『imalu』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -240,7 +240,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『thứ hạng của man utd gặp as roma』知ってる？",
+      "videoTitle": "今話題の『imalu』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -265,7 +265,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "thứ hạng của man utd gặp as roma",
+      "trendOrigin": "imalu",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -280,8 +280,8 @@
       "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "nvda",
-      "opening": "今『nvda』が検索で伸びてるみたい。これ知ってる？",
+      "title": "abema 将棋",
+      "opening": "今『abema 将棋』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -295,7 +295,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『nvda』知ってる？",
+      "videoTitle": "今話題の『abema 将棋』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -320,7 +320,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "nvda",
+      "trendOrigin": "abema 将棋",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -335,8 +335,8 @@
       "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "amazon ブラックフライデー 2026",
-      "opening": "今『amazon ブラックフライデー 2026』が検索で伸びてるみたい。これ知ってる？",
+      "title": "キーシャ・ボトムズ",
+      "opening": "今『キーシャ・ボトムズ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -350,7 +350,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『amazon ブラックフライデー 2026』知ってる？",
+      "videoTitle": "今話題の『キーシャ・ボトムズ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -375,7 +375,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "amazon ブラックフライデー 2026",
+      "trendOrigin": "キーシャ・ボトムズ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -390,8 +390,8 @@
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "ラファエル・エスピノサ",
-      "opening": "今『ラファエル・エスピノサ』が検索で伸びてるみたい。これ知ってる？",
+      "title": "弾劾",
+      "opening": "今『弾劾』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -405,7 +405,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『ラファエル・エスピノサ』知ってる？",
+      "videoTitle": "今話題の『弾劾』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -430,7 +430,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "ラファエル・エスピノサ",
+      "trendOrigin": "弾劾",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
