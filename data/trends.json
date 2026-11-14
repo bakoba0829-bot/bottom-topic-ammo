@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-14T17:03:36.246721+00:00",
+  "updatedAt": "2026-11-14T21:27:26.918822+00:00",
   "topics": [
     {
       "id": "trend-1",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "norway vs wales",
-      "opening": "今『norway vs wales』が検索で伸びてるみたい。これ知ってる？",
+      "title": "ヘッドコーチ",
+      "opening": "今『ヘッドコーチ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -20,7 +20,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『norway vs wales』知ってる？",
+      "videoTitle": "今話題の『ヘッドコーチ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -45,7 +45,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "norway vs wales",
+      "trendOrigin": "ヘッドコーチ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -60,8 +60,8 @@
       "id": "trend-2",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "清原和博",
-      "opening": "今『清原和博』が検索で伸びてるみたい。これ知ってる？",
+      "title": "芦屋航空祭",
+      "opening": "今『芦屋航空祭』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -75,7 +75,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『清原和博』知ってる？",
+      "videoTitle": "今話題の『芦屋航空祭』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -86,24 +86,52 @@
     {
       "id": "derived-2-1",
       "source": "トレンド派生",
-      "genre": "価値観",
-      "title": "流行ってるものって気になる？",
-      "opening": "みんな『今これ流行ってる』って聞いたら気になっちゃう？",
+      "genre": "季節",
+      "title": "夏と冬、どっちが嫌？",
+      "opening": "夏と冬なら、どっちの方が嫌？",
       "expansions": [
-        "流行ってるから始めたものある？",
-        "逆に流行ってても興味ないものある？",
-        "SNSで流行を知ること多い？"
+        "暑いのと寒いのどっちが耐えられる？",
+        "一番好きな季節は？",
+        "夏に絶対やることある？"
       ],
       "related": [
-        "SNS",
-        "流行",
-        "趣味",
-        "ネット"
+        "夏",
+        "冬",
+        "季節",
+        "休日"
       ],
-      "trendOrigin": "清原和博",
-      "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
-      "splitPoint": "流行に乗る派 / マイペース派。",
-      "videoTitle": "流行ってると気になっちゃう？",
+      "trendOrigin": "芦屋航空祭",
+      "shortReason": "誰でも答えられ、真逆の意見が生まれやすい。",
+      "splitPoint": "夏派 / 冬派。",
+      "videoTitle": "夏と冬、どっちがマシ？",
+      "scores": {
+        "first": 5,
+        "short": 5,
+        "expand": 5,
+        "long": 4
+      }
+    },
+    {
+      "id": "derived-2-2",
+      "source": "トレンド派生",
+      "genre": "日常",
+      "title": "寝る時エアコン何度？",
+      "opening": "みんな寝る時エアコン何度にしてる？",
+      "expansions": [
+        "朝までつけっぱなし？",
+        "タイマー使う？",
+        "電気代って気にする？"
+      ],
+      "related": [
+        "睡眠",
+        "電気代",
+        "夏",
+        "生活"
+      ],
+      "trendOrigin": "芦屋航空祭",
+      "shortReason": "数字で回答でき、生活習慣の違いがコメントになりやすい。",
+      "splitPoint": "つけっぱなし派 / タイマー派。",
+      "videoTitle": "寝る時のエアコン、何度が正解？",
       "scores": {
         "first": 5,
         "short": 5,
@@ -115,8 +143,8 @@
       "id": "trend-3",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "worlds 2026",
-      "opening": "今『worlds 2026』が検索で伸びてるみたい。これ知ってる？",
+      "title": "交通規制",
+      "opening": "今『交通規制』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -130,7 +158,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『worlds 2026』知ってる？",
+      "videoTitle": "今話題の『交通規制』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -155,7 +183,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "worlds 2026",
+      "trendOrigin": "交通規制",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -170,8 +198,8 @@
       "id": "trend-4",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "アーモンドアイ",
-      "opening": "今『アーモンドアイ』が検索で伸びてるみたい。これ知ってる？",
+      "title": "富士スピードウェイ",
+      "opening": "今『富士スピードウェイ』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -185,7 +213,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『アーモンドアイ』知ってる？",
+      "videoTitle": "今話題の『富士スピードウェイ』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -210,7 +238,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "アーモンドアイ",
+      "trendOrigin": "富士スピードウェイ",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -225,8 +253,8 @@
       "id": "trend-5",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "coach",
-      "opening": "今『coach』が検索で伸びてるみたい。これ知ってる？",
+      "title": "中田翔",
+      "opening": "今『中田翔』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -240,7 +268,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『coach』知ってる？",
+      "videoTitle": "今話題の『中田翔』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -265,7 +293,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "coach",
+      "trendOrigin": "中田翔",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -280,8 +308,8 @@
       "id": "trend-6",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "gta",
-      "opening": "今『gta』が検索で伸びてるみたい。これ知ってる？",
+      "title": "lpga",
+      "opening": "今『lpga』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -295,7 +323,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『gta』知ってる？",
+      "videoTitle": "今話題の『lpga』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -320,7 +348,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "gta",
+      "trendOrigin": "lpga",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -335,8 +363,8 @@
       "id": "trend-7",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "イングランド 対 日本",
-      "opening": "今『イングランド 対 日本』が検索で伸びてるみたい。これ知ってる？",
+      "title": "門脇誠",
+      "opening": "今『門脇誠』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -350,7 +378,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『イングランド 対 日本』知ってる？",
+      "videoTitle": "今話題の『門脇誠』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -375,7 +403,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "イングランド 対 日本",
+      "trendOrigin": "門脇誠",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
@@ -390,8 +418,8 @@
       "id": "trend-8",
       "source": "Google Trends",
       "genre": "トレンド",
-      "title": "兵役",
-      "opening": "今『兵役』が検索で伸びてるみたい。これ知ってる？",
+      "title": "山口茜",
+      "opening": "今『山口茜』が検索で伸びてるみたい。これ知ってる？",
       "expansions": [
         "なんで今話題なんだろう？",
         "最近ネットで知ったものある？",
@@ -405,7 +433,7 @@
       ],
       "shortReason": "今話題になっているため、冒頭のフックとして使いやすい。",
       "splitPoint": "知っている人と知らない人で反応が分かれやすい。",
-      "videoTitle": "今話題の『兵役』知ってる？",
+      "videoTitle": "今話題の『山口茜』知ってる？",
       "scores": {
         "first": 4,
         "short": 3,
@@ -430,7 +458,7 @@
         "趣味",
         "ネット"
       ],
-      "trendOrigin": "兵役",
+      "trendOrigin": "山口茜",
       "shortReason": "流行への向き合い方という普遍的な価値観へ変換している。",
       "splitPoint": "流行に乗る派 / マイペース派。",
       "videoTitle": "流行ってると気になっちゃう？",
